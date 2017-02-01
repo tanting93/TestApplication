@@ -36,5 +36,6 @@ script:
     # Uncomment and specify the correct key for integration into Slack    
 #notifications:
   #slack: ict2105:PNXMGobtKXUUl2Gvq3jVhyU0
+  slack: ict2105:vJJFtPE18t2OfprsA08UIvZC
 
   
